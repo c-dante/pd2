@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Project Diablo 2 stuff</title>
+		<script type="text/javascript">
+			function onItemPaste(e) {
+				formatItem(e.target.value);
+			}
+			function formatItem(jsonString) {
+				try {
+					const item = JSON.parse(jsonString);
+					console.log(item);
+					const notableStats = item.stats.reduce((acc, stat) => {
+						if (stat.range) {
+							acc.push(`${stat.name} ${stat.value}/${stat.range.max}`);
+						}
+						return acc;
+					}, []);
+					const format = [
+						item.name,
+						item.sockets ? `${item.sockets} sockets` : '',
+						...notableStats,
+					]
+						.filter(x => x)
+						.join(', ');
+					setOutput(format);
+					outputLabel();
+				} catch (error) {
+					console.error('Failed to parse item', error);
+					setOutput();
+					outputLabel('Invalid item json');
+				}
+			}
+			function setOutput(value = '') {
+				const elt = document.getElementById('item-shorthand-output');
+				if (elt) {
+					elt.textContent = value;
+				}
+			}
+			function outputLabel(value = 'Results') {
+				const elt = document.getElementById('item-shorthand-output-label');
+				if (elt) {
+					elt.textContent = value;
+				}
+			}
+			console.log(onItemPaste);
+		</script>
+  </head>
+  <body>
+    <h3>Item Paste Shorhand</h3>
+		<label for="item-shorthand-input">Item JSON</label>
+		<div>
+			<textarea id="item-shorthand-input" oninput="onItemPaste(event)"></textarea>
+		</div>
+		<label id="item-shorthand-output-label" for="item-shorthand-output">Result</label>
+		<div>
+			<textarea id="item-shorthand-output" readonly></textarea>
+		</div>
+  </body>
+</html>
