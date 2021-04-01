@@ -7,13 +7,22 @@
 			function onItemPaste(e) {
 				formatItem(e.target.value);
 			}
+			const shorthand = {
+				'item_fasterattackrate': 'ias',
+			};
+			function short(stat) {
+				return shorthand[stat] ? shorthand[stat] : stat;
+			}
 			function formatItem(jsonString) {
 				try {
 					const item = JSON.parse(jsonString);
 					console.log(item);
 					const notableStats = item.stats.reduce((acc, stat) => {
+						const name = short(stat.name);
 						if (stat.range) {
-							acc.push(`${stat.name} ${stat.value}/${stat.range.max}`);
+							acc.push(`${name} ${stat.value}/${stat.range.max}`);
+						} else {
+							acc.push(`${stat.value} ${name}`);
 						}
 						return acc;
 					}, []);
