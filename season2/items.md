@@ -139,11 +139,9 @@
 #### Misc
 - Skillers
 	- +1 traps
-
 - Amulets
 	- +skills
-
-- jewels
+- Jewels
 	- 15% ias, 2x
 	- 7% fhr, +13 all res
 
@@ -177,7 +175,6 @@
 
 #### Misc
 - 3 sock superior wire fleece
-
 - Skillers
 	- +1 combat skills, 12% fhr (send to Tippy!!)
 
@@ -221,7 +218,6 @@
 - 5os phase blade
 - 5os superior thresher
 - 2x +3 warcry spears
-
 - Jewels
 	- 5% mf
 	- 16% ed
@@ -231,12 +227,10 @@
 	- 15% ias, 30 fire res
 	- +14 all res, +3 min dmg
 	- +8 all res, +3 dex
-
 - Skillers
 	- +1 combat skills, +24 life
 	- +1 warcrys, +5 life
 	- +1 warcrys
-
 - Runes
 	- jah
 	- vex
