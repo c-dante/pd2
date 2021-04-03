@@ -80,11 +80,18 @@
 - Whitstan's Guard (mule)
 
 #### Unique
-- Bartuc's Cut-Throat, +1
 - The Reaper's Toll, 245% ed, 12% life steal
+- [O] Bartuc's Cut-Throat, +1 [N] Um
 - Gimmershred 211%
-- Deathbit
+- [O] Deathbit [N] 2 WSS
 - Cat's Eye, 39 frw, 20 ias (bowazon?)
+- [O] Goldskin [N] 2 WSS
+- [O] Ethereal Edge [N] Mal / Um + 2 WSS
+
+#### Misc
+- [O] +3 warcry jav [N] Pul
+- [O] +3 warcry jav [N] Pul
+- [O] +1 trap skiller [N] Ist
 
 ### dante_mule
 
@@ -125,7 +132,6 @@
 
 #### Misc
 - Skillers
-	- [O] +1 traps [N] Mal
 - Amulets
 	- +skills
 - Jewels
@@ -158,14 +164,13 @@
 - Eshuta's Tember, +1/-9%/-7%/10%/19%/20
 - Maelstrom, +3/+2/+2/+3, 30% fcr
 - Nagelring, 17% mf
-- [O] Soul Drainer, 5%/5%/-5 [N] Mal / Um + 2 WSS
 
 
 #### Misc
 - 3 sock superior wire fleece, 10 ed
 - Skillers
 	- +1 combat skills, 12% fhr (send to Tippy!!)
-
+- mal
 
 ### dante_mulec
 
@@ -202,11 +207,9 @@
 - [O] Kelpie Snare [N] Um / 4 WSS
 - [O] Grim's Burning Dead, +3/+3 [N] Pul
 - [O] Howltusk, x2 [N] 2 WSS
-- [O] Goblin Toe, 30/15/56/5/5 [N] Um
 - [O] The Jade Tan Do eth, +2 poison, +1 dagger [N] Um or 4 WSS
 - [O] Steelclash, +10 all res [N] Lem / Pul / 3 WSS
 - [O] Demon Limb, eth [N] Um
-- [O] Hexfire, +3 [N] 2 WSS
 
 #### Misc
 - +3 poison/bone amu **RESERVE FOR ALEX**
@@ -214,6 +217,8 @@
 - 5os phase blade
 - 5os superior thresher
 - Various skill amu/rings/charms
+- 2x wss
+- um
 
 ### Tippy
 
