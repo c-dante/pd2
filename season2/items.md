@@ -62,39 +62,29 @@
 
 
 ### Tightpants
+- Duskdeep
+- Moser's Blessed Circle, 63 all res, 2s diamonds
+- +3 mb hand scythe
+- [GG|C] Skin of the Vipermagi, +27 all res, 40 FCR
+- Goldwrap, 31% mf
+- War Traveler, 44% mf
+- Nagelring *C*, 27% mf, cold res 11%
+- Magefist, 29 ed 25 regen
+- 10 fcr, 6 res, 17 mf ring
+- +1 sin amu
+
 
 #### Set
 - Natalya's Mark
-- Natalya's Shadow
-	- +2/3 sock
-	- +2/1 sock
-- Trang-Oul's Claws
-- M'avinia's Tenet
-- Altur's Rhythm, 3 sock
+- Natalya's Shadow, +2/3os
+- Whitstan's Guard (mule)
 
 #### Unique
-- Gull
-- Heart Carver
-- Spineripper
 - Bartuc's Cut-Throat, +1
-- Boneflesh, +10
-- Horizon's Tornado +5/+5
-- Fleshripper
-- Demon Limb, eth
-- Stormrider
-- Hexfire, +3
-- Baranar's Star
-- Swordback Hold
-- Howltusk, x2
-- Kelpie Snare
-- Soul Harvest, +4
-- Bing Sz Wang, -19%
-- Duskdeep
-- Silks of the Victor
-- Moser's Blessed Circle, 2 sock
-- Goldwrap, 31% mf
-- Infernostride
-
+- The Reaper's Toll, 245% ed, 12% life steal
+- Gimmershred 211%
+- Deathbit
+- Cat's Eye, 39 frw, 20 ias (bowazon?)
 
 ### dante_mule
 
@@ -110,8 +100,6 @@
 	- +1, 3 sock
 	- +2, 3 sock
 - Natalya's Shadow, +2/2 sock
-- Irath's Cord
-- Sigon's Guard
 
 #### Unique
 - Vampire Gaze, 6/7/17/15
@@ -131,19 +119,20 @@
 - Herald of Zakarum, +1
 - Pierre Tombale Couant
 - Kuko Shakaku
-- Rogue's Bow
 - Crow Claw eth
 - Undead Crown, +1/+2
 
 
 #### Misc
 - Skillers
-	- +1 traps
+	- [O] +1 traps [N] Mal
 - Amulets
 	- +skills
 - Jewels
 	- 15% ias, 2x
 	- 7% fhr, +13 all res
+- Runies
+	mal
 
 
 ### dante_muleb
@@ -154,15 +143,13 @@
 - Milabrega's Robe
 - Rite of Passage
 - Credendum
-- Guillaume's Face
 - Griswold's Heart, +2/2 sock
 
 
 #### Unique
-- Soul Drainer, 5%/5%/-5
 - Ginther's Rift
 - Razor's Edge
-- Goblin Toe, 23/15/60/3/3
+- [O] Goblin Toe, 23/15/60/3/3 [N] Um
 - Venom Grip, 4/15/6/138
 - Rogue's Bow
 - Spectral Shard, +15 all res
@@ -171,28 +158,69 @@
 - Eshuta's Tember, +1/-9%/-7%/10%/19%/20
 - Maelstrom, +3/+2/+2/+3, 30% fcr
 - Nagelring, 17% mf
+- [O] Soul Drainer, 5%/5%/-5 [N] Mal / Um + 2 WSS
 
 
 #### Misc
-- 3 sock superior wire fleece
+- 3 sock superior wire fleece, 10 ed
 - Skillers
 	- +1 combat skills, 12% fhr (send to Tippy!!)
 
+
+### dante_mulec
+
+#### Set
+- Sazabi's Ghost Liberator, 2x
+- Guillaume's Face
+- M'avinia's Tenet
+- Trang-Oul's Claws
+- Natalya's Shadow, +2/1os
+- Tal Rasha's Horadric Crest, 10/8/55/28/20 (max res, max mana)
+- IK Will, 58/36
+- [O] Aldur's Rhythm, 3os [N] Ist
+- [O] Aldur's Stony Gaze, +1/+1 [N] 2 WSS
+- [O] Rite of Passage, [N] 4 WSS
+- [O] Griswold's Heart, +2/3 sock
+
+#### Unique
+- Gull
+- Silks of the Victor
+- Undead Crown, eth, +3/+2
+- Gimmershred, 203%
+- Scalper
+- Stormrider
+- Infernostride
+- Baranar's Star
+- Swordback Hold
+- Horizon's Tornado +5/+5
+- Fleshripper
+- Chance guards
+- The Mahim-Oak Curio, 8% fcr/+10 attributes , +9 all res
+- Gravespine, +1/+1
+- [O] Spineripper [N] 2 WSS
+- [O] Heart Carver [N] Pul / 2 WSS
+- [O] Kelpie Snare [N] Um / 4 WSS
+- [O] Grim's Burning Dead, +3/+3 [N] Pul
+- [O] Howltusk, x2 [N] 2 WSS
+- [O] Goblin Toe, 30/15/56/5/5 [N] Um
+- [O] The Jade Tan Do eth, +2 poison, +1 dagger [N] Um or 4 WSS
+- [O] Steelclash, +10 all res [N] Lem / Pul / 3 WSS
+- [O] Demon Limb, eth [N] Um
+- [O] Hexfire, +3 [N] 2 WSS
+
+#### Misc
+- +3 poison/bone amu **RESERVE FOR ALEX**
+- +3 warcry amu
+- 5os phase blade
+- 5os superior thresher
+- Various skill amu/rings/charms
 
 ### Tippy
 
 #### Set
 - Laying of Hands *C*, 21% mf
 - Immortal King's Will, 2 sock (perf topaz), 88% mf
-- Griswold's Heart, +2/3 sock
-- Aldur's Stony Gaze, +1/+1
-- Sazabi's Ghost Liberator, 2x
-- Tal Rasha's Horadric Crest, 10/8/55/28/20 (max res, max mana)
-- Tancred's Weird
-- Rite of Passage
 - Laying of Hands, 122/43/38
-- Immortal King's Will, 2 sock, 36% mf
-- Sigons's Sabot
 
 #### Unique
 - Warshrike, 260%
@@ -200,23 +228,9 @@
 - String of Ears, 8%/169%/14%/10
 - Nagelring *C*, 8% frw, 32% mf
 - Goblin toe *C*, 20%/23%/55%, 18% Fire Res
-- Gimmershred, 203%
-- War Traveler, 44% mf
-- The Reaper's Toll, 245% ed, 12% life steal
-- Scalper
-- Skin of the Vipermagi, +27 all res (SEND TO TIGHTPANTS)
-- Steelclash, +10 all res
-- The Jade Tan Do eth, +2 poison, +1 dagger
 - Stone of Jordan
-- Nagelring *C*, 27% mf, cold res 11%
-- The Mahim-Oak Curio, 8% fcr/+10 attributes , +9 all res
-- Goblin Toe, 30/15/56/5/5
-- Grim's Burning Dead, +3/+3
-- Gravespine, +1/+1
 
 #### Misc
-- 5os phase blade
-- 5os superior thresher
 - 2x +3 warcry spears
 - Jewels
 	- 5% mf
@@ -224,7 +238,6 @@
 	- 36% ed
 	- 15% ias
 	- 15% ias, 37 def
-	- 15% ias, 30 fire res
 	- +14 all res, +3 min dmg
 	- +8 all res, +3 dex
 - Skillers
@@ -234,7 +247,6 @@
 - Runes
 	- jah
 	- vex
-	- ist
 	- mal
 	- um
 	- lem
