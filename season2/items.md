@@ -19,6 +19,7 @@
 - Cathan's Rule
 - Arcanna's Deathwand
 - Arcanna's Head
+- Arcanna's Flesh
 - Civberb's Ward
 - Cleglaw's Claw
 - Angelic Mantle
@@ -43,8 +44,7 @@
 - Arctic Binding
 - Infernal Cranium
 - Infernal Sign
-- Milabrega's Orb (full set)
-	- 53% and 41%
+- Milabrega's Orb (full set), 53% and 41%
 - Milabrega's Robe
 - Milabrega's Diadem
 - Milabrega's Rod
@@ -62,7 +62,7 @@
 
 
 ### Tightpants
-- Duskdeep
+- +3 Shadow Skull
 - Moser's Blessed Circle, 63 all res, 2s diamonds
 - +3 mb hand scythe
 - [GG|C] Skin of the Vipermagi, +27 all res, 40 FCR
@@ -73,40 +73,40 @@
 - 10 fcr, 6 res, 17 mf ring
 - +1 sin amu
 
+#### Merc
+- The Reaper's Toll, 245% ed, 12% life steal
+- Duskdeep
+- Leviathan
+- IK Detail Belt
+- IK Pillar Boots
+- IK Forge Gloves
 
 #### Set
-- Natalya's Mark
-- Natalya's Shadow, +2/3os
-- Whitstan's Guard (mule)
+
 
 #### Unique
-- The Reaper's Toll, 245% ed, 12% life steal
-- [O] Bartuc's Cut-Throat, +1 [N] Um
-- Gimmershred 211%
-- [O] Deathbit [N] 2 WSS
-- Cat's Eye, 39 frw, 20 ias (bowazon?)
-- [O] Goldskin [N] 2 WSS
-- [O] Ethereal Edge [N] Mal / Um + 2 WSS
+- Shadow Killer Eth 2os
 
 #### Misc
-- [O] +3 warcry jav [N] Pul
-- [O] +3 warcry jav [N] Pul
-- [O] +1 trap skiller [N] Ist
+- 4os Monarch
+- +3 warcry jav
+- [O] +3 warcry jav [N] Pul / 2 WSS
 
 ### dante_mule
 
 #### Set
-- Laying of hands, 144/29/46
 - Tal Rasha's Horadric Crest, 6/9/55/25/13
 - Tal Rasha's Fine-Spun Cloth, 16% mf
+- Tal Rasha's Fine-Spun Cloth, 14% mf
 - Tal Rasha's Guardianship, 74% mf
-- Haemosu's Adamant
-- Dangoon's Teaching
+- Tal Rasha's Lidless Eye, +2 C/+2 L/+1 F
+- Trang-Oul's Guise
+- Trang-Oul's Claws
+- Trang-Oul's Scales, +1
 - Immportal King's Stone Crusher, 38 cb
-- Griswold's Heart
-	- +1, 3 sock
-	- +2, 3 sock
-- Natalya's Shadow, +2/2 sock
+- Griswold's Heart, +1, 3 sock
+- Griswold's Heart, +2, 3 sock
+- Natalya's Shadow, +2/2os
 
 #### Unique
 - Vampire Gaze, 6/7/17/15
@@ -116,9 +116,7 @@
 - Seraph's Hymn, 2/2/72/238/62/163 (max levels!)
 - Waterwalk, 188/49
 - The Iron Jang Bong, +2/35 fcr
-- Bloodletter, +2/+2
 - Djinn Slayer
-- Spineripper
 - Scalper, 6%
 - Hawkmail, +3 raven, 10% max cold, 30% cold, 94% def (near max!)
 - Black Hades, 2 sock, 178% dmn demon
@@ -128,6 +126,8 @@
 - Kuko Shakaku
 - Crow Claw eth
 - Undead Crown, +1/+2
+- Bloodletter, 225%/+2/+2
+- [O] Ethereal Edge [N] Mal / Um + 2 WSS
 
 
 #### Misc
@@ -137,16 +137,15 @@
 - Jewels
 	- 15% ias, 2x
 	- 7% fhr, +13 all res
-- Runies
-	mal
+- Runes
 
 
 ### dante_muleb
 
 #### Set
-- Immortal King's Forge, 2x
-- Trang-Oul's Scales, +1
+- Immortal King's Forge
 - Milabrega's Robe
+- Laying of hands, 144/29/46
 - Rite of Passage
 - Credendum
 - Griswold's Heart, +2/2 sock
@@ -165,23 +164,22 @@
 - Maelstrom, +3/+2/+2/+3, 30% fcr
 - Nagelring, 17% mf
 
-
 #### Misc
 - 3 sock superior wire fleece, 10 ed
-- Skillers
-	- +1 combat skills, 12% fhr (send to Tippy!!)
-- mal
 
 ### dante_mulec
 
 #### Set
 - Sazabi's Ghost Liberator, 2x
 - Guillaume's Face
+- Whitstan's Guard
+- Wilhelm's Pride
 - M'avinia's Tenet
-- Trang-Oul's Claws
 - Natalya's Shadow, +2/1os
 - Tal Rasha's Horadric Crest, 10/8/55/28/20 (max res, max mana)
 - IK Will, 58/36
+- Laying of Hands, 122/43/38
+- Aldur's Advance
 - [O] Aldur's Rhythm, 3os [N] Ist
 - [O] Aldur's Stony Gaze, +1/+1 [N] 2 WSS
 - [O] Rite of Passage, [N] 4 WSS
@@ -192,6 +190,7 @@
 - Silks of the Victor
 - Undead Crown, eth, +3/+2
 - Gimmershred, 203%
+- Gimmershred, 211%
 - Scalper
 - Stormrider
 - Infernostride
@@ -199,14 +198,15 @@
 - Swordback Hold
 - Horizon's Tornado +5/+5
 - Fleshripper
-- Chance guards
+- Tearhaunch
 - The Mahim-Oak Curio, 8% fcr/+10 attributes , +9 all res
 - Gravespine, +1/+1
+- Howltusk
 - [O] Spineripper [N] 2 WSS
 - [O] Heart Carver [N] Pul / 2 WSS
 - [O] Kelpie Snare [N] Um / 4 WSS
 - [O] Grim's Burning Dead, +3/+3 [N] Pul
-- [O] Howltusk, x2 [N] 2 WSS
+- [O] Howltusk [N] 2 WSS
 - [O] The Jade Tan Do eth, +2 poison, +1 dagger [N] Um or 4 WSS
 - [O] Steelclash, +10 all res [N] Lem / Pul / 3 WSS
 - [O] Demon Limb, eth [N] Um
@@ -217,26 +217,35 @@
 - 5os phase blade
 - 5os superior thresher
 - Various skill amu/rings/charms
-- 2x wss
-- um
 
 ### Tippy
-
-#### Set
 - Laying of Hands *C*, 21% mf
-- Immortal King's Will, 2 sock (perf topaz), 88% mf
-- Laying of Hands, 122/43/38
-
-#### Unique
-- Warshrike, 260%
-- Raven Frost
 - String of Ears, 8%/169%/14%/10
+- Raven Frost
 - Nagelring *C*, 8% frw, 32% mf
 - Goblin toe *C*, 20%/23%/55%, 18% Fire Res
+- Lacerator *C*, 11 fhr
+- Steel Shade, +2 skills
+- Rare Francisca *C*, +1 skills, fools
+- 2x +3 warcry spears
+
+#### Merc
+- Sigons (no shield)
+- Swordguard
+
+#### Set
+- Immortal King's Will, 2 sock (perf topaz), 88% mf
+- Natalya's Totem, +14 all res
+
+
+#### Unique
 - Stone of Jordan
+- Arkaine's Valor, +2
+
+
 
 #### Misc
-- 2x +3 warcry spears
+- 4os Archon Plate
 - Jewels
 	- 5% mf
 	- 16% ed
@@ -252,10 +261,63 @@
 - Runes
 	- jah
 	- vex
+	- ist (SAVE FOR CHAINS)
 	- mal
-	- um
+	- um (SAVE FOR CHAINS)
 	- lem
 	- fal, x3
 	- ko, x3
 	- lum, x5
 	- io, x2
+	- dol (SAVE FOR CHAINS)
+
+
+### SnickerSnack
+
+#### Set
+- Haemosu's Adamant
+- Dangoon's Teaching
+- Taebaek's Glory
+- IK Pillar boots
+- IK Stone Crusher, 35 crushing
+- Natalya's Mark
+- Natalya's Shadow, +2/3os
+- Natalya's Totem, 14 all res
+- Cat's Eye, 39 frw, 20 ias (bowazon?)
+- [O] IK Stone Crusher, 39 crushing [N] 4WSS / Um
+
+#### Unique
+- Witchwild String
+- Chance guards
+- Jalal's Mane, +1/181% /19/16
+- Bloodletter, +2/+2
+- Spineripper
+- Duskdeep
+- Culwen's Point
+- The Reaper's Toll, 193% ed, 15% life steal
+- Warshrike, 260%
+- Widowmaker
+- Lacerator *C*, +ED/+AR
+- Dwarf Star
+- [O] Spectral Shard, 16 all res [N] 2 WSS / Lem+
+- [O] Bartuc's Cut-Throat, +1 [N] Um
+- [O] Bverrit Keep [N] Pul / 2 WSS
+- [O] Blackbog's Sharp [N] Um / Pul + 2 WSS
+- [O] Maelstrom [N] Um / 2x Lem / 4 WSS
+- [O] Goldskin [N] 2 WSS
+- [O] Viperfork [N] Um
+- [O] Spire of Lazarus [N] 1 WSS
+- [O] Razorswitch [N] Pul / 2 WSS
+- [O] Heaven's light, 1os, +3 [N] Um
+- [O] Blackhorn's Face [N] Lem+/2 WSS
+- [O] The Atlantean [N] 1 WSS
+- [O] Hellplague [N] 1 WSS
+- [O] Cloudcrack [N] Pul / 2 WSS
+- [O] Demon Machine [N] Mal / Um + 2 WSS
+
+#### Misc
+- [O] +1 trap skiller (+1 md) [N] Ist
+- [O] Plague Scarab (+2 wc amu) [N] 2 WSS
+- +1 sin amu *C*
+- 15% IAS jewel
+- +1 druid amu
