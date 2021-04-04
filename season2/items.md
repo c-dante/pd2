@@ -5,10 +5,6 @@
 - Hwanin's Blessing
 - Hwanin's Splendor
 
-#### Misc
-- Throw Barb leveling/intermediate stuff
-	- WSS / PGems
-
 
 ### JustAFlower
 
@@ -32,9 +28,6 @@
 - Spire of Lazarus
 - Razorswitch
 - Sparking Mail
-
-#### Misc
-- 3 maps
 
 ### Pancake Flip
 
@@ -81,9 +74,6 @@
 - IK Pillar Boots
 - IK Forge Gloves
 
-#### Set
-
-
 #### Unique
 - Shadow Killer Eth 2os
 
@@ -103,9 +93,9 @@
 - Trang-Oul's Guise
 - Trang-Oul's Claws
 - Trang-Oul's Scales, +1
-- Immportal King's Stone Crusher, 38 cb
-- Griswold's Heart, +1, 3 sock
-- Griswold's Heart, +2, 3 sock
+- IK Stone Crusher, 38 cb
+- Griswold's Heart, +1, 3os
+- Griswold's Heart, +2, 3os
 - Natalya's Shadow, +2/2os
 
 #### Unique
@@ -119,7 +109,7 @@
 - Djinn Slayer
 - Scalper, 6%
 - Hawkmail, +3 raven, 10% max cold, 30% cold, 94% def (near max!)
-- Black Hades, 2 sock, 178% dmn demon
+- Black Hades, 2os, 178% dmn demon
 - Butcher's Pupil
 - Herald of Zakarum, +1
 - Pierre Tombale Couant
@@ -143,12 +133,12 @@
 ### dante_muleb
 
 #### Set
-- Immortal King's Forge
+- IK Forge
 - Milabrega's Robe
 - Laying of hands, 144/29/46
 - Rite of Passage
 - Credendum
-- Griswold's Heart, +2/2 sock
+- Griswold's Heart, +2/2os
 
 
 #### Unique
@@ -165,7 +155,7 @@
 - Nagelring, 17% mf
 
 #### Misc
-- 3 sock superior wire fleece, 10 ed
+- 3os superior wire fleece, 10 ed
 
 ### dante_mulec
 
@@ -183,7 +173,7 @@
 - [O] Aldur's Rhythm, 3os [N] Ist
 - [O] Aldur's Stony Gaze, +1/+1 [N] 2 WSS
 - [O] Rite of Passage, [N] 4 WSS
-- [O] Griswold's Heart, +2/3 sock
+- [O] Griswold's Heart, +2/3os
 
 #### Unique
 - Gull
@@ -234,8 +224,6 @@
 - Swordguard
 
 #### Set
-- Immortal King's Will, 2 sock (perf topaz), 88% mf
-- Natalya's Totem, +14 all res
 
 
 #### Unique
@@ -255,9 +243,6 @@
 	- +14 all res, +3 min dmg
 	- +8 all res, +3 dex
 - Skillers
-	- +1 combat skills, +24 life
-	- +1 warcrys, +5 life
-	- +1 warcrys
 - Runes
 	- jah
 	- vex
@@ -279,6 +264,7 @@
 - Dangoon's Teaching
 - Taebaek's Glory
 - IK Pillar boots
+- IK Will, (2x perf topaz), 88% mf
 - IK Stone Crusher, 35 crushing
 - Natalya's Mark
 - Natalya's Shadow, +2/3os
