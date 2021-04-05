@@ -4,6 +4,7 @@
 - Hwanin's Refuge
 - Hwanin's Blessing
 - Hwanin's Splendor
+- Hwanin's Justice
 
 
 ### JustAFlower
@@ -28,6 +29,11 @@
 - Spire of Lazarus
 - Razorswitch
 - Sparking Mail
+- Snakecord
+- Wormskull
+
+#### Misc
+- +2 neco w/ 33mf helm
 
 ### Pancake Flip
 
@@ -56,7 +62,6 @@
 
 ### Tightpants
 - +3 Shadow Skull
-- Moser's Blessed Circle, 63 all res, 2s diamonds
 - +3 mb hand scythe
 - [GG|C] Skin of the Vipermagi, +27 all res, 40 FCR
 - Goldwrap, 31% mf
@@ -65,6 +70,7 @@
 - Magefist, 29 ed 25 regen
 - 10 fcr, 6 res, 17 mf ring
 - +1 sin amu
+- Shadow Killer Eth 2os
 
 #### Merc
 - The Reaper's Toll, 245% ed, 12% life steal
@@ -74,8 +80,20 @@
 - IK Pillar Boots
 - IK Forge Gloves
 
+#### Set
+- [O] M'AVINA'S TENET [N] Pul / 2 WSS
+
 #### Unique
-- Shadow Killer Eth 2os
+- Moser's Blessed Circle, 63 all res, 2s diamonds
+- [O] Islestrike [N] Pul / 2 WSS
+- [O] The Meat Scraper [N] Pul / 2 WSS
+- [O] THE VILE HUSK [N] Um / 4 WSS
+- [O] Hellcast [N] 1 WSS
+- [O] Tomb Reaver [N] Pul / 2 WSS
+- [O] Baezil's Vortex [N] Pul / 2 WSS
+- [O] Bladebuckles [N] Pul / 2 WSS
+- [O] Moonfall [N] Pul / 2 WSS
+- [O] Duriel's Shell [N] Pul / 2 WSS
 
 #### Misc
 - 4os Monarch
@@ -288,18 +306,15 @@
 - [O] Spectral Shard, 16 all res [N] 2 WSS / Lem+
 - [O] Bartuc's Cut-Throat, +1 [N] Um
 - [O] Bverrit Keep [N] Pul / 2 WSS
-- [O] Blackbog's Sharp [N] Um / Pul + 2 WSS
 - [O] Maelstrom [N] Um / 2x Lem / 4 WSS
-- [O] Goldskin [N] 2 WSS
 - [O] Viperfork [N] Um
 - [O] Spire of Lazarus [N] 1 WSS
 - [O] Razorswitch [N] Pul / 2 WSS
 - [O] Heaven's light, 1os, +3 [N] Um
 - [O] Blackhorn's Face [N] Lem+/2 WSS
-- [O] The Atlantean [N] 1 WSS
-- [O] Hellplague [N] 1 WSS
 - [O] Cloudcrack [N] Pul / 2 WSS
 - [O] Demon Machine [N] Mal / Um + 2 WSS
+- [TRASH] Hellplague
 
 #### Misc
 - [O] +1 trap skiller (+1 md) [N] Ist
