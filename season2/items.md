@@ -5,7 +5,25 @@
 - Hwanin's Blessing
 - Hwanin's Splendor
 - Hwanin's Justice
+- Sigons (no shield)
+- Dangoon's Teaching
+- Griswold's heart, +1/2os
 
+#### Unique
+- Swordguard
+- Snakecord, 5% poison damage, 30% ed, 10 life regen
+- Bloodletter, 200ed +1/+3
+- Sandstorm Trek
+- Lance of Yaggai
+- Wormskull
+- Kuko Shakaku
+- [O] Jade Talon [N] Mal / Um + 2 Wss
+
+#### Misc
+- +2 neco w/ 33mf helm
+- Smoke mage plate
+- 4os archon plate
+- 4os eth colossus voulge
 
 ### JustAFlower
 
@@ -29,11 +47,9 @@
 - Spire of Lazarus
 - Razorswitch
 - Sparking Mail
-- Snakecord
-- Wormskull
 
 #### Misc
-- +2 neco w/ 33mf helm
+
 
 ### Pancake Flip
 
@@ -69,36 +85,20 @@
 - Nagelring *C*, 27% mf, cold res 11%
 - Magefist, 29 ed 25 regen
 - 10 fcr, 6 res, 17 mf ring
-- +1 sin amu
+- +2 shadow amu
 - Shadow Killer Eth 2os
 
 #### Merc
 - The Reaper's Toll, 245% ed, 12% life steal
 - Duskdeep
-- Leviathan
-- IK Detail Belt
-- IK Pillar Boots
-- IK Forge Gloves
+- IK Pillar boots
 
 #### Set
-- [O] M'AVINA'S TENET [N] Pul / 2 WSS
 
 #### Unique
-- Moser's Blessed Circle, 63 all res, 2s diamonds
-- [O] Islestrike [N] Pul / 2 WSS
-- [O] The Meat Scraper [N] Pul / 2 WSS
-- [O] THE VILE HUSK [N] Um / 4 WSS
-- [O] Hellcast [N] 1 WSS
-- [O] Tomb Reaver [N] Pul / 2 WSS
-- [O] Baezil's Vortex [N] Pul / 2 WSS
-- [O] Bladebuckles [N] Pul / 2 WSS
-- [O] Moonfall [N] Pul / 2 WSS
-- [O] Duriel's Shell [N] Pul / 2 WSS
 
 #### Misc
-- 4os Monarch
 - +3 warcry jav
-- [O] +3 warcry jav [N] Pul / 2 WSS
 
 ### dante_mule
 
@@ -157,7 +157,7 @@
 - Rite of Passage
 - Credendum
 - Griswold's Heart, +2/2os
-
+- [O] M'AVINA'S TENET [N] Pul / 2 WSS
 
 #### Unique
 - Ginther's Rift
@@ -171,6 +171,20 @@
 - Eshuta's Tember, +1/-9%/-7%/10%/19%/20
 - Maelstrom, +3/+2/+2/+3, 30% fcr
 - Nagelring, 17% mf
+- Moser's Blessed Circle, 63 all res, 2s diamonds
+- Leviathan
+- Silks of the Victor *C*, 34% lightning res
+- [O] Eschuta's Temper [N] Um/Mal
+- [O] Islestrike [N] Pul / 2 WSS
+- [O] The Meat Scraper [N] Pul / 2 WSS
+- [O] THE VILE HUSK [N] Um / 4 WSS
+- [O] Hellcast [N] 1 WSS
+- [O] Baezil's Vortex [N] Pul / 2 WSS
+- [O] Bladebuckles [N] Pul / 2 WSS
+- [O] Moonfall [N] Pul / 2 WSS
+- [O] Duriel's Shell [N] Pul / 2 WSS
+- [O] Goldskin [N] Pul / 4 WSS
+- [O] Stealskull *C* 2os perf mf [N] Vex / Offers
 
 #### Misc
 - 3os superior wire fleece, 10 ed
@@ -209,19 +223,20 @@
 - Tearhaunch
 - The Mahim-Oak Curio, 8% fcr/+10 attributes , +9 all res
 - Gravespine, +1/+1
-- Howltusk
+- 3x corrupted howltusks, prolly not worth anything
+	- 4% phys damage reduction
+	- 5% mana per hit
+	- 131% enhanced def
 - [O] Spineripper [N] 2 WSS
 - [O] Heart Carver [N] Pul / 2 WSS
 - [O] Kelpie Snare [N] Um / 4 WSS
 - [O] Grim's Burning Dead, +3/+3 [N] Pul
-- [O] Howltusk [N] 2 WSS
 - [O] The Jade Tan Do eth, +2 poison, +1 dagger [N] Um or 4 WSS
 - [O] Steelclash, +10 all res [N] Lem / Pul / 3 WSS
 - [O] Demon Limb, eth [N] Um
 
 #### Misc
 - +3 poison/bone amu **RESERVE FOR ALEX**
-- +3 warcry amu
 - 5os phase blade
 - 5os superior thresher
 - Various skill amu/rings/charms
@@ -238,8 +253,13 @@
 - 2x +3 warcry spears
 
 #### Merc
-- Sigons (no shield)
-- Swordguard
+- IK Stone Crusher maul, 39% Crushing
+- IK Will helm, 2os, 36 mf
+- IK Forge gloves, 62
+- IK Soul Cage armor, 399 def 50 poison res
+- IK Detail belt, 36 def, 25 str, 28 light res, 26 fire res
+- IK Pillar boots, 116 ar, 57 def, 47 life
+
 
 #### Set
 
@@ -249,9 +269,7 @@
 - Arkaine's Valor, +2
 
 
-
 #### Misc
-- 4os Archon Plate
 - Jewels
 	- 5% mf
 	- 16% ed
@@ -281,14 +299,13 @@
 - Haemosu's Adamant
 - Dangoon's Teaching
 - Taebaek's Glory
-- IK Pillar boots
+- Magnus's Skin
 - IK Will, (2x perf topaz), 88% mf
 - IK Stone Crusher, 35 crushing
 - Natalya's Mark
 - Natalya's Shadow, +2/3os
 - Natalya's Totem, 14 all res
 - Cat's Eye, 39 frw, 20 ias (bowazon?)
-- [O] IK Stone Crusher, 39 crushing [N] 4WSS / Um
 
 #### Unique
 - Witchwild String
