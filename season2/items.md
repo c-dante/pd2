@@ -1,3 +1,13 @@
+## Loaned Gear
+
+### Alex
+- Eschuta's Temper
+- Tal Rasha's Fine-Spun Cloth, *C*, 16% mf
+- 3os +2 sorc jarad stone *C*
+- Lidless Eye
+
+## Characters
+
 ### PickinBones
 
 #### Set
@@ -36,20 +46,26 @@
 - Arcanna's Head
 - Arcanna's Flesh
 - Civberb's Ward
+- Civberb's Icon
 - Cleglaw's Claw
 - Angelic Mantle
 - Angelic Halo
+- Angelic Wings
 - Sanders
 - Naj's Circlet
+- Naj's Light Plate
 
 #### Unique
 - Frostburn
 - Spire of Lazarus
 - Razorswitch
+- Boneslayer Blade
+- String of Ears *C*
 - Sparking Mail
+- Shadow Killer +2
 
 #### Misc
-
+- Treachery Wyrmhide
 
 ### Pancake Flip
 
@@ -82,30 +98,44 @@
 - [GG|C] Skin of the Vipermagi, +27 all res, 40 FCR
 - Goldwrap, 31% mf
 - War Traveler, 44% mf
-- Nagelring *C*, 27% mf, cold res 11%
 - Magefist, 29 ed 25 regen
-- 10 fcr, 6 res, 17 mf ring
 - +2 shadow amu
-- Shadow Killer Eth 2os
+- Nagelring *C*, 55% mf
+- Raven Frost *C*, 11 cold res
+- Shadow Killer Eth *C* 2os
 
 #### Merc
 - The Reaper's Toll, 245% ed, 12% life steal
 - Duskdeep
 - IK Pillar boots
+- Bladebuckle
 
 #### Set
+- [O] Wilhelm's Pride [N] Pul / 4 WSS
 
 #### Unique
+- Wall of the Eyeless
+- [O] Ginther's Rift [N] Pul / 4 WSS
+- [O] Eaglehorn [N] Pul / 4 WSS
+- [O] Stormrider [N] Pul / 2 WSS
+- [O] Goblin Toe (15%) [N] Pul / 4 WSS
+- [O] Doomslinger [N] Lem / 2 WSS
 
 #### Misc
-- +3 warcry jav
+- +1 jav/spear, 3 dex skiller
+- +1 masteries skiller
+- +1 masteries, 2/3 fire dmg skiller
+- +2 cold skills, 10fcr, 23mf *C*
+- [O] +3mb +1 wake of fire [N] Um
+- [O] +3 warcry amu [N] 2 Wss
+- [O] +3 martial arts, half freeze amu CLEAN [N] Um / Pul + 2 WSS
+
 
 ### dante_mule
 
 #### Set
 - Tal Rasha's Horadric Crest, 6/9/55/25/13
-- Tal Rasha's Fine-Spun Cloth, 16% mf
-- Tal Rasha's Fine-Spun Cloth, 14% mf
+- Tal Rasha's Fine-Spun Cloth, *C*, 11% mf
 - Tal Rasha's Guardianship, 74% mf
 - Tal Rasha's Lidless Eye, +2 C/+2 L/+1 F
 - Trang-Oul's Guise
@@ -157,12 +187,13 @@
 - Rite of Passage
 - Credendum
 - Griswold's Heart, +2/2os
+- IK Stone Crusher, 40% cb
+- Trang-Oul's Claws, 13%
 - [O] M'AVINA'S TENET [N] Pul / 2 WSS
 
 #### Unique
 - Ginther's Rift
 - Razor's Edge
-- [O] Goblin Toe, 23/15/60/3/3 [N] Um
 - Venom Grip, 4/15/6/138
 - Rogue's Bow
 - Spectral Shard, +15 all res
@@ -172,12 +203,16 @@
 - Maelstrom, +3/+2/+2/+3, 30% fcr
 - Nagelring, 17% mf
 - Moser's Blessed Circle, 63 all res, 2s diamonds
+- Moser's Blessed Circle, 2os
 - Leviathan
 - Silks of the Victor *C*, 34% lightning res
-- [O] Eschuta's Temper [N] Um/Mal
+- Spike Thorn
+- Kinemil's Awl
+- Tiamat's Rebuke
+- Ravenlore, 24 all res
+- [O] Goblin Toe, 23/15/60/3/3 [N] Um
 - [O] Islestrike [N] Pul / 2 WSS
 - [O] The Meat Scraper [N] Pul / 2 WSS
-- [O] THE VILE HUSK [N] Um / 4 WSS
 - [O] Hellcast [N] 1 WSS
 - [O] Baezil's Vortex [N] Pul / 2 WSS
 - [O] Bladebuckles [N] Pul / 2 WSS
@@ -187,7 +222,11 @@
 - [O] Stealskull *C* 2os perf mf [N] Vex / Offers
 
 #### Misc
+- 4 wss
+- 3os superior antlers
 - 3os superior wire fleece, 10 ed
+- [O] 5os Phase Blade, 14% ED [N] Gul / Ist + 4 WSS
+- [O] 4os +3 jav skull Matriarch Spear [N] Pul
 
 ### dante_mulec
 
@@ -248,8 +287,8 @@
 - Nagelring *C*, 8% frw, 32% mf
 - Goblin toe *C*, 20%/23%/55%, 18% Fire Res
 - Lacerator *C*, 11 fhr
+- Wraith Flight *C*, deadly strike + ed
 - Steel Shade, +2 skills
-- Rare Francisca *C*, +1 skills, fools
 - 2x +3 warcry spears
 
 #### Merc
@@ -262,14 +301,24 @@
 
 
 #### Set
-
+- Trang-Oul's Scales armor, +2
+- Aldur's Rhythm 1os
 
 #### Unique
 - Stone of Jordan
-- Arkaine's Valor, +2
+- The Gladiator's Bane
+- [O] Jade Talon [N] Um / Pul + 2 WSS
+- [O] Pus Spitter [N] Pul
+- [O] Demon Machine [N] Pul / 2 WSS
+- [O] Death Cleaver [N] Mal
+- [O] The Gladiator's Bane 199 ed [N] Um
+
+
+- ??? Arkaine's Valor, +2
 
 
 #### Misc
+- Rare Francisca *C*, +1 skills, fools
 - Jewels
 	- 5% mf
 	- 16% ed
@@ -281,6 +330,7 @@
 - Skillers
 - Runes
 	- jah
+	- ohm
 	- vex
 	- ist (SAVE FOR CHAINS)
 	- mal
@@ -294,8 +344,14 @@
 
 
 ### SnickerSnack
+- Duskdeep
+- Chance guards
+- Nagelring *C*, 27% mf, cold res 11%
+- [TRASH] Hellplague
+- [O] Bverrit Keep [N] Pul / 2 WSS
 
 #### Set
+- Ondal's Almighty (full set)
 - Haemosu's Adamant
 - Dangoon's Teaching
 - Taebaek's Glory
@@ -305,37 +361,38 @@
 - Natalya's Mark
 - Natalya's Shadow, +2/3os
 - Natalya's Totem, 14 all res
-- Cat's Eye, 39 frw, 20 ias (bowazon?)
+- Natalya's Soul (full set)
+- Rite of Passage (+25 stamina)
 
 #### Unique
 - Witchwild String
-- Chance guards
 - Jalal's Mane, +1/181% /19/16
 - Bloodletter, +2/+2
 - Spineripper
-- Duskdeep
 - Culwen's Point
 - The Reaper's Toll, 193% ed, 15% life steal
 - Warshrike, 260%
 - Widowmaker
 - Lacerator *C*, +ED/+AR
 - Dwarf Star
+- Grim's Burning Dead, +3/+4
+- Lightsaber
+- Cat's Eye, 39 frw, 20 ias (bowazon?)
 - [O] Spectral Shard, 16 all res [N] 2 WSS / Lem+
 - [O] Bartuc's Cut-Throat, +1 [N] Um
-- [O] Bverrit Keep [N] Pul / 2 WSS
 - [O] Maelstrom [N] Um / 2x Lem / 4 WSS
 - [O] Viperfork [N] Um
 - [O] Spire of Lazarus [N] 1 WSS
 - [O] Razorswitch [N] Pul / 2 WSS
 - [O] Heaven's light, 1os, +3 [N] Um
-- [O] Blackhorn's Face [N] Lem+/2 WSS
 - [O] Cloudcrack [N] Pul / 2 WSS
 - [O] Demon Machine [N] Mal / Um + 2 WSS
-- [TRASH] Hellplague
 
 #### Misc
-- [O] +1 trap skiller (+1 md) [N] Ist
-- [O] Plague Scarab (+2 wc amu) [N] 2 WSS
+- +2 combat skills helm
 - +1 sin amu *C*
 - 15% IAS jewel
-- +1 druid amu
+- +1 skills, +2 phoenix, +2 chain, +1 claws war fist *C*
+- [O] +2 necro, 1 fire golem, 20fcr, 1os wand *C* [N] Pul / 2 WSS
+- [O] +1 trap skiller (+1 md) [N] Ist
+- [O] Plague Scarab (+2 wc amu) [N] 2 WSS
