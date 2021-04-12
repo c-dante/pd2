@@ -9,6 +9,9 @@
 ## Characters
 
 ### PickinBones
+- Trang-Oul's Guise
+- Trang-Oul's Claws
+- Trang-Oul's Scales, +1
 
 #### Set
 - Hwanin's Refuge
@@ -19,10 +22,10 @@
 - Dangoon's Teaching
 - Griswold's heart, +1/2os
 
+
 #### Unique
 - Swordguard
 - Snakecord, 5% poison damage, 30% ed, 10 life regen
-- Bloodletter, 200ed +1/+3
 - Sandstorm Trek
 - Lance of Yaggai
 - Wormskull
@@ -111,23 +114,32 @@
 - Bladebuckle
 
 #### Set
+- IK Stone Cruser Maul 38%
+- M'avinia's Embrace
+- Aldur's Thythm 3os
 - [O] Wilhelm's Pride [N] Pul / 4 WSS
 
 #### Unique
 - Wall of the Eyeless
+- [O] Windhammer [N] Um
+- [O] Howltusk [N] 1 WSS
+- [O] Howltusk [N] Lem / 2 WSS
+- [O] Steeldriver [N] Pul / 4 WSS
 - [O] Ginther's Rift [N] Pul / 4 WSS
-- [O] Eaglehorn [N] Pul / 4 WSS
 - [O] Stormrider [N] Pul / 2 WSS
 - [O] Goblin Toe (15%) [N] Pul / 4 WSS
+- [O] Hellmouth [N] Pul / 6 WSS
 - [O] Doomslinger [N] Lem / 2 WSS
+- [O] Skin of the Vipermagi [N] Ist
 
 #### Misc
-- +1 jav/spear, 3 dex skiller
 - +1 masteries skiller
-- +1 masteries, 2/3 fire dmg skiller
 - +2 cold skills, 10fcr, 23mf *C*
+- [O] +1 jav/spear, 3 dex skiller [N] Mal
+- [O] +1 masteries, 2/3 fire dmg skiller [N] 2 WSS
 - [O] +3mb +1 wake of fire [N] Um
 - [O] +3 warcry amu [N] 2 Wss
+- [O] +3 cold skill amu [N] Pul
 - [O] +3 martial arts, half freeze amu CLEAN [N] Um / Pul + 2 WSS
 
 
@@ -138,9 +150,6 @@
 - Tal Rasha's Fine-Spun Cloth, *C*, 11% mf
 - Tal Rasha's Guardianship, 74% mf
 - Tal Rasha's Lidless Eye, +2 C/+2 L/+1 F
-- Trang-Oul's Guise
-- Trang-Oul's Claws
-- Trang-Oul's Scales, +1
 - IK Stone Crusher, 38 cb
 - Griswold's Heart, +1, 3os
 - Griswold's Heart, +2, 3os
@@ -196,7 +205,6 @@
 - Razor's Edge
 - Venom Grip, 4/15/6/138
 - Rogue's Bow
-- Spectral Shard, +15 all res
 - Heart Carver
 - Wizardspike
 - Eshuta's Tember, +1/-9%/-7%/10%/19%/20
@@ -210,6 +218,7 @@
 - Kinemil's Awl
 - Tiamat's Rebuke
 - Ravenlore, 24 all res
+- Spectral Shard, +15 all res
 - [O] Goblin Toe, 23/15/60/3/3 [N] Um
 - [O] Islestrike [N] Pul / 2 WSS
 - [O] The Meat Scraper [N] Pul / 2 WSS
@@ -239,7 +248,7 @@
 - Natalya's Shadow, +2/1os
 - Tal Rasha's Horadric Crest, 10/8/55/28/20 (max res, max mana)
 - IK Will, 58/36
-- Laying of Hands, 122/43/38
+- [O] Laying of Hands, 122/43/38 [M] Pul
 - Aldur's Advance
 - [O] Aldur's Rhythm, 3os [N] Ist
 - [O] Aldur's Stony Gaze, +1/+1 [N] 2 WSS
@@ -276,9 +285,7 @@
 
 #### Misc
 - +3 poison/bone amu **RESERVE FOR ALEX**
-- 5os phase blade
-- 5os superior thresher
-- Various skill amu/rings/charms
+- [O] +3 defensive auras [N] Pul / 4 WSS
 
 ### Tippy
 - Laying of Hands *C*, 21% mf
@@ -286,7 +293,7 @@
 - Raven Frost
 - Nagelring *C*, 8% frw, 32% mf
 - Goblin toe *C*, 20%/23%/55%, 18% Fire Res
-- Lacerator *C*, 11 fhr
+- Lacerator *C*, 11 fhr (swap w/ snicker snack's)
 - Wraith Flight *C*, deadly strike + ed
 - Steel Shade, +2 skills
 - 2x +3 warcry spears
@@ -307,14 +314,12 @@
 #### Unique
 - Stone of Jordan
 - The Gladiator's Bane
+- [O] Hellrack [N] Pul / 4 WSS
 - [O] Jade Talon [N] Um / Pul + 2 WSS
 - [O] Pus Spitter [N] Pul
 - [O] Demon Machine [N] Pul / 2 WSS
 - [O] Death Cleaver [N] Mal
 - [O] The Gladiator's Bane 199 ed [N] Um
-
-
-- ??? Arkaine's Valor, +2
 
 
 #### Misc
@@ -328,7 +333,8 @@
 	- +14 all res, +3 min dmg
 	- +8 all res, +3 dex
 - Skillers
-- Runes
+	- [O] +1 passive and magic skills [N] Pul + 2 WSS
+ - Runes
 	- jah
 	- ohm
 	- vex
@@ -365,20 +371,19 @@
 - Rite of Passage (+25 stamina)
 
 #### Unique
-- Witchwild String
-- Jalal's Mane, +1/181% /19/16
 - Bloodletter, +2/+2
 - Spineripper
 - Culwen's Point
 - The Reaper's Toll, 193% ed, 15% life steal
-- Warshrike, 260%
-- Widowmaker
-- Lacerator *C*, +ED/+AR
+- Lacerator *C*, +ED/+AR (move to tippy)
 - Dwarf Star
 - Grim's Burning Dead, +3/+4
 - Lightsaber
 - Cat's Eye, 39 frw, 20 ias (bowazon?)
-- [O] Spectral Shard, 16 all res [N] 2 WSS / Lem+
+- [O] Jalal's Mane, +1/181% /19/16 [N] Um / Pul + 4 WSS
+- [O] Widowmaker [N] Ist+
+- [O] Warshrike, 260% [N] Gul / Ist + 2 WSS
+- [O] Spectral Shard, 16 all res [N] 2 WSS / Lem
 - [O] Bartuc's Cut-Throat, +1 [N] Um
 - [O] Maelstrom [N] Um / 2x Lem / 4 WSS
 - [O] Viperfork [N] Um
@@ -394,5 +399,4 @@
 - 15% IAS jewel
 - +1 skills, +2 phoenix, +2 chain, +1 claws war fist *C*
 - [O] +2 necro, 1 fire golem, 20fcr, 1os wand *C* [N] Pul / 2 WSS
-- [O] +1 trap skiller (+1 md) [N] Ist
 - [O] Plague Scarab (+2 wc amu) [N] 2 WSS
