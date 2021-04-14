@@ -3,34 +3,43 @@
 ### Alex
 - Eschuta's Temper
 - Tal Rasha's Fine-Spun Cloth, *C*, 16% mf
+- Tal Rasha's Adjudication
 - 3os +2 sorc jarad stone *C*
 - Lidless Eye
+- The Mahim-Oak Curio, 8% fcr/+10 attributes , +9 all res
 
 ## Characters
 
 ### PickinBones
 - Trang-Oul's Guise
 - Trang-Oul's Claws
-- Trang-Oul's Scales, +1
+- Trang-Oul's Scales, +2
+- Gravespine, +1/+1
+- nagelring 39 mf 11 frw *C*
+- +3 pnb amu
+- Rhyme grim shield
+- Gravespine +1/+1
 
-#### Set
+#### Merc
 - Hwanin's Refuge
 - Hwanin's Blessing
 - Hwanin's Splendor
 - Hwanin's Justice
-- Sigons (no shield)
-- Dangoon's Teaching
-- Griswold's heart, +1/2os
+- Sigon's gloves + boots
 
+#### Set
+- Trang-Oul's Scales, +1
 
 #### Unique
 - Swordguard
 - Snakecord, 5% poison damage, 30% ed, 10 life regen
 - Sandstorm Trek
 - Lance of Yaggai
+- Fleshripper
 - Wormskull
 - Kuko Shakaku
 - [O] Jade Talon [N] Mal / Um + 2 Wss
+- Boneshade
 
 #### Misc
 - +2 neco w/ 33mf helm
@@ -43,7 +52,6 @@
 #### Set
 - Cathan's Mesh
 - Cathan's Visage
-- Cathan's Seal
 - Cathan's Rule
 - Arcanna's Deathwand
 - Arcanna's Head
@@ -57,6 +65,8 @@
 - Sanders
 - Naj's Circlet
 - Naj's Light Plate
+- Aldur's Rhythm 3 os
+- IK Stone Cruser Maul 38%
 
 #### Unique
 - Frostburn
@@ -66,9 +76,21 @@
 - String of Ears *C*
 - Sparking Mail
 - Shadow Killer +2
+- [O] Zakarum's Hand [N] Lem / 2 WSS
+- [O] Skin of the Vipermagi [N] Ist
+- [O] Howltusk [N] 1 WSS
+- [O] Howltusk [N] Lem / 2 WSS
+- [O] Goblin Toe (15%) [N] Pul / 4 WSS
+- [O] Steeldriver [N] Pul / 4 WSS
+- [O] Ginther's Rift [N] Pul / 4 WSS
+- [O] Stormrider [N] Pul / 2 WSS
+- [O] Windhammer [N] Um
+- [O] Doomslinger [N] Lem / 2 WSS
 
 #### Misc
 - Treachery Wyrmhide
+- 5os 15ed mancatcher
+- +3 cold skill 19 cold res amu *C*
 
 ### Pancake Flip
 
@@ -114,32 +136,23 @@
 - Bladebuckle
 
 #### Set
-- IK Stone Cruser Maul 38%
-- M'avinia's Embrace
-- Aldur's Thythm 3os
-- [O] Wilhelm's Pride [N] Pul / 4 WSS
+- Aldur's Rhythm 2os
+- [O] Rite of Passage [N] Lem / 2 WSS
+- [O] Bul-Katho's Tribal Guardian sword [N] Pul / Lem + 2 WSS
 
 #### Unique
-- Wall of the Eyeless
-- [O] Windhammer [N] Um
-- [O] Howltusk [N] 1 WSS
-- [O] Howltusk [N] Lem / 2 WSS
-- [O] Steeldriver [N] Pul / 4 WSS
-- [O] Ginther's Rift [N] Pul / 4 WSS
-- [O] Stormrider [N] Pul / 2 WSS
-- [O] Goblin Toe (15%) [N] Pul / 4 WSS
-- [O] Hellmouth [N] Pul / 6 WSS
-- [O] Doomslinger [N] Lem / 2 WSS
-- [O] Skin of the Vipermagi [N] Ist
+- [O] Chromatic Ire [N] Ist / Mal + 4 WSS
+- [O] Arioc's Needle [N] Pul / Lem + 4 WSS
+- [O] Wall of the Eyeless [N] Lem / 1 WSS
+
 
 #### Misc
 - +1 masteries skiller
-- +2 cold skills, 10fcr, 23mf *C*
 - [O] +1 jav/spear, 3 dex skiller [N] Mal
 - [O] +1 masteries, 2/3 fire dmg skiller [N] 2 WSS
 - [O] +3mb +1 wake of fire [N] Um
-- [O] +3 warcry amu [N] 2 Wss
-- [O] +3 cold skill amu [N] Pul
+- [O] +3 warcry amu [N] Pul / 4 WSS
+- [O] +3 cold skill amu [N] Pul (might be on flower?)
 - [O] +3 martial arts, half freeze amu CLEAN [N] Um / Pul + 2 WSS
 
 
@@ -147,7 +160,10 @@
 
 #### Set
 - Tal Rasha's Horadric Crest, 6/9/55/25/13
+- Tal Rasha's Horadric Crest, 9/10/55/33/14
+- [O] Tal Rasha's Horadric Crest, 8/10/51/33/20 [N] Um
 - Tal Rasha's Fine-Spun Cloth, *C*, 11% mf
+- Tal Rasha's Fine-Spun Cloth, *C*, 19% mf
 - Tal Rasha's Guardianship, 74% mf
 - Tal Rasha's Lidless Eye, +2 C/+2 L/+1 F
 - IK Stone Crusher, 38 cb
@@ -168,12 +184,12 @@
 - Hawkmail, +3 raven, 10% max cold, 30% cold, 94% def (near max!)
 - Black Hades, 2os, 178% dmn demon
 - Butcher's Pupil
-- Herald of Zakarum, +1
 - Pierre Tombale Couant
 - Kuko Shakaku
 - Crow Claw eth
 - Undead Crown, +1/+2
 - Bloodletter, 225%/+2/+2
+- [O] Herald of Zakarum, +1 [N] Ist + Mal
 - [O] Ethereal Edge [N] Mal / Um + 2 WSS
 
 
@@ -250,41 +266,31 @@
 - IK Will, 58/36
 - [O] Laying of Hands, 122/43/38 [M] Pul
 - Aldur's Advance
+- Aldur's Rhythm, 1os
+- [O] Blackhand Key [N] Um
 - [O] Aldur's Rhythm, 3os [N] Ist
 - [O] Aldur's Stony Gaze, +1/+1 [N] 2 WSS
 - [O] Rite of Passage, [N] 4 WSS
 - [O] Griswold's Heart, +2/3os
+- [O] Wilhelm's Pride [N] Pul / 4 WSS
+- M'avinia's Embrace
 
 #### Unique
 - Gull
 - Silks of the Victor
-- Undead Crown, eth, +3/+2
 - Gimmershred, 203%
 - Gimmershred, 211%
-- Scalper
-- Stormrider
-- Infernostride
-- Baranar's Star
-- Swordback Hold
-- Horizon's Tornado +5/+5
-- Fleshripper
 - Tearhaunch
-- The Mahim-Oak Curio, 8% fcr/+10 attributes , +9 all res
-- Gravespine, +1/+1
-- 3x corrupted howltusks, prolly not worth anything
-	- 4% phys damage reduction
-	- 5% mana per hit
-	- 131% enhanced def
-- [O] Spineripper [N] 2 WSS
-- [O] Heart Carver [N] Pul / 2 WSS
-- [O] Kelpie Snare [N] Um / 4 WSS
-- [O] Grim's Burning Dead, +3/+3 [N] Pul
-- [O] The Jade Tan Do eth, +2 poison, +1 dagger [N] Um or 4 WSS
-- [O] Steelclash, +10 all res [N] Lem / Pul / 3 WSS
-- [O] Demon Limb, eth [N] Um
+- Iron Jang Bong
+- Crescent Moon +1
+- [O] The Gladiator's Bane 199 ed [N] Um
+- [O] Hellrack [N] Pul / 4 WSS
+- [O] Jade Talon [N] Um / Pul + 2 WSS
+- [O] Pus Spitter [N] Pul
+- [O] Demon Machine [N] Pul / 2 WSS
+- Nord's Tenderizer
 
 #### Misc
-- +3 poison/bone amu **RESERVE FOR ALEX**
 - [O] +3 defensive auras [N] Pul / 4 WSS
 
 ### Tippy
@@ -308,45 +314,22 @@
 
 
 #### Set
-- Trang-Oul's Scales armor, +2
-- Aldur's Rhythm 1os
+- Sazabi's Mental Sheath helm
 
 #### Unique
 - Stone of Jordan
-- The Gladiator's Bane
-- [O] Hellrack [N] Pul / 4 WSS
-- [O] Jade Talon [N] Um / Pul + 2 WSS
-- [O] Pus Spitter [N] Pul
-- [O] Demon Machine [N] Pul / 2 WSS
-- [O] Death Cleaver [N] Mal
-- [O] The Gladiator's Bane 199 ed [N] Um
+- [O] Gravespine [N] Pul / 2 WSS
+- [O] Islestrike [N] Pul / 4 WSS
+- [O] Messerschmid's Reaver [N] Pul / 4 WSS
+- [O] 2os Ume Lament [N] Ist
+- [O] 6os Grandfather [N] 4 HRs
+
 
 
 #### Misc
-- Rare Francisca *C*, +1 skills, fools
-- Jewels
-	- 5% mf
-	- 16% ed
-	- 36% ed
-	- 15% ias
-	- 15% ias, 37 def
-	- +14 all res, +3 min dmg
-	- +8 all res, +3 dex
 - Skillers
+	- [O] +1 shapeshifting [N] Mal / Offer
 	- [O] +1 passive and magic skills [N] Pul + 2 WSS
- - Runes
-	- jah
-	- ohm
-	- vex
-	- ist (SAVE FOR CHAINS)
-	- mal
-	- um (SAVE FOR CHAINS)
-	- lem
-	- fal, x3
-	- ko, x3
-	- lum, x5
-	- io, x2
-	- dol (SAVE FOR CHAINS)
 
 
 ### SnickerSnack
@@ -371,19 +354,19 @@
 - Rite of Passage (+25 stamina)
 
 #### Unique
+- Lacerator *C*, +ED/+AR (move to tippy)
 - Bloodletter, +2/+2
 - Spineripper
 - Culwen's Point
 - The Reaper's Toll, 193% ed, 15% life steal
-- Lacerator *C*, +ED/+AR (move to tippy)
 - Dwarf Star
 - Grim's Burning Dead, +3/+4
 - Lightsaber
 - Cat's Eye, 39 frw, 20 ias (bowazon?)
+- Spectral Shard, 16 all res
 - [O] Jalal's Mane, +1/181% /19/16 [N] Um / Pul + 4 WSS
 - [O] Widowmaker [N] Ist+
 - [O] Warshrike, 260% [N] Gul / Ist + 2 WSS
-- [O] Spectral Shard, 16 all res [N] 2 WSS / Lem
 - [O] Bartuc's Cut-Throat, +1 [N] Um
 - [O] Maelstrom [N] Um / 2x Lem / 4 WSS
 - [O] Viperfork [N] Um
