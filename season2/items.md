@@ -11,7 +11,7 @@
 - Tal Rasha's Fine-Spun Cloth, *C*, 16% mf
 - Tal Rasha's Adjudication
 - 3os +2 sorc jarad stone *C*
-- Lidless Eye
+- Lidless Wall
 - The Mahim-Oak Curio, 8% fcr/+10 attributes , +9 all res
 - Vampire Gaze
 - 40% fcr spirit shroud (?)
@@ -62,11 +62,12 @@
 
 ### JustAFlower
 - Waterwalk
-- Frostburn
 - Peasant Crown *C* cfb
-- Tal Rasha's Fine Spun Cloth, *C*, 19 mana regen, 17 mf
 - Tal Rasha's Lidless Eye, *C*
+- Tal Rasha's Guardianship, 74% mf
+- Mage fist
 - Moser's Blessed Circle
+- Tal Rasha's Fine Spun Cloth, *C*, 50mf
 
 #### Merc
 - Wilhelm's Pride *C*
@@ -83,64 +84,75 @@
 - Stormshield
 
 #### Set
-- Sanders
+- Tal Rasha's Fine Spun Cloth, *C*, 19 mana regen, 17 mf
 - Naj's Light Plate
-- Tal Rasha's Guardianship, 74% mf
 - Bul-Katho's Tribal Guardian sword
 
 #### Unique
-- Boneslayer Blade
-- Shadow Killer +2
-- [O] Howltusk [N] 1 WSS
-- [O] Howltusk [N] Lem / 2 WSS
-- [O] Steeldriver [N] Pul / 4 WSS
-- [O] Stormrider [N] Pul / 2 WSS
-- [O] Doomslinger [N] Lem / 2 WSS
-- Endlesshail
-- [O] Head Hunter's Glory
-- Razorswitch
-- [O] Stormraven
 - [O] Langer Briser
 - [O] Lightsaber
 - [O] Lycander's Flank [N]
-- Crescent Moon, 2/8/6/9 (near max!)
+- [O] Steeldriver [N] Pul / 4 WSS
+- [O] Stormrider [N] Pul / 2 WSS
+- Frostburn
+- Razorswitch
+- Shadow Killer +2
 
 #### Misc
-- Treachery Wyrmhide
+- Spirit Monarch
+
+???
 - 5os 15ed mancatcher
-- +3 cold skill 19 cold res amu *C*
+- Treachery Wyrmhide
 
 ### PancakeFlip
+- Vidalia's Fetlock
+- Vidalia's Barb
+- Vidalia's Snare
+- Vidalia's Ambush
+- Hellcast
+- Venom Grip
+- Goldwrap
 
 #### Set
-- Arctic Mitts
-- Arctic Binding
-- Infernal Cranium
-- Infernal Sign
-- Vidalia's Fetlock
+- M'avina's Embrase
+- M'avina's Tenet
+- Tal Rasha's Horadric Crest
+- Trang-Oul's Claws
+- Magnus' Skin
 
 #### Unique
-- Hellcast
-- Blastbark
-- Magewrath
-- Grim's Burning Dead, +3/+4
-- Dark Clan Crusher
-- Steeldriver
-- Bonesnap
-- Swordguard
-- Ginther's Rift
-- Snakecord, 5% poison damage, 30% ed, 10 life regen
-- Fleshripper
-- Wormskull
-- Boneshade
-- [O] Undead Crown 3/3 [N] Mal / Um + 4 WSS
-- [O] Jade Talon [N] Mal / Um + 2 Wss
-- [JUNK] The Vile Husk
-- [O] Frostwind [N] Um / Pul + 2 WSS
-- [O] The Impaler [N] Ist / Um + 2 WSS
+- [O] Chance Guards
+- [O] Crown of Ages, 1os
+- [O] Eaglehorn
+- [O] Earthshaker
+- [O] Guardian Angel
+- [O] Magewrath
+- [O] Peasant Crown
+- [O] Peasant Crown
+- [O] STEELREND
+- [O] String of Ears
 - [O] The Gavel of Pain [N] Um / Pul + 2 WSS
-- [O] Goldskin [N] Lem / 2 WSS
-- [O] The Atlantian [N] Pul / 4 WSS
+- [O] The Impaler [N] Ist / Um + 2 WSS
+- [O] THUNDERGOD'S VIGOR
+- [O] Witchwild String 2os
+- Blackhorn's Face
+- Blackoak
+- Cliffkiller
+- Darksight
+- Frostwind
+- Fleshripper
+- Infernostride
+- Infernostride
+- Steelclash
+- Steeldriver
+- Wolfhowl
+
+???????????????
+- [O] Naj's Puzzler
+- Tal Rasha's Fine-spun Cloth Belt
+- Stealskull (WHERE)
+
 
 
 ### Tightpants
@@ -162,32 +174,18 @@
 - String of Ears *C*, 8%/169%/14%/10
 - Leviathan
 
-#### Set
-- Tal Rasha's Fine-spun Cloth Belt
-
-#### Unique
+#### Items
 - Nature's Peace
-- [O] Skystrike
-- [O] Sureshrill Frost
-- [O] Fleshripper
-- [O] Witchwild String 2os
-- [O] Riphook
-- [O] Blade of Ali Baba
-- [O] The Spirit Shroud *C*
+- Stone of Jordan
+- Stone of Jordan
+- Raven Frost
+- Raven Frost
+- Dwarf Star
+- Dwarf Star
+- Dwarf Star
+- [O] DOOM GORGET (+1sorc, 9fcr, 10 all res)
+- [O] GHOULRI EMBLEM (+2 wc, 7fcr, 12 all res)
 
-- Lightsabre (WHERE)
-- Stealskull (WHERE)
-
-
-#### Misc
-- Crafted
-	- [O] Stone Necklace
-	- [O] Order Scarab
-	- [O] Grim Beads
-	- [O] Wraith Collar
-	- [O] Skull Torc
-	- [O] Raven Scarab
-	- [O] Order Clasp
 
 ### dante_mule
 
@@ -205,27 +203,35 @@
 - [O] IK Stone Crusher, 38 cb [N] Pul / Lem + 2 WSS
 
 #### Unique
-- Nokozan Relic, 26/39
-- Seraph's Hymn, 2/2/72/238/62/163 (max levels!)
-- Waterwalk, 188/49
+- [O] 5os 15ed ghost spear
+- [O] Aroic's Needle +3
+- [O] Blackbog's Sharp
+- [O] Blade of Ali Baba
+- [O] Cranebeak
+- [O] Eaglehorn
+- [O] Eschuta's Temper, +3 -9/10 fire, -7/10 light
+- [O] Fleshripper
+- [O] Gravenspine, +1/+1
+- [O] Kelpie Snare
+- [O] Reaper's Toll
+- [O] Riphook
+- [O] Silks of the Victor 2os *C* [N] Pul / Lem / 2 WSS
+- [O] Silkweave
+- [O] Skystrike
+- [O] Sureshrill Frost
+- [O] The Spirit Shroud *C*
+- [O] THUNDERGOD'S VIGOR, near perf
 - Black Hades, 2os, 178% dmn demon
 - Butcher's Pupil
 - Crow Claw eth
-- Undead Crown, +1/+2
-- [O] Gravenspine, +1/+1
 - Gravesnpine +1/+1
-- [O] Kelpie Snare
-- [O] Aroic's Needle +3
-- [O] Silks of the Victor 2os *C* [N] Pul / Lem / 2 WSS
-- [O] Eaglehorn
-- [O] Eschuta's Temper, +3 -9/10 fire, -7/10 light
-- [O] THUNDERGOD'S VIGOR, near perf
-- [O] Blackbog's Sharp
-- [O] Cranebeak
-- [O] Silkweave
-- [O] Reaper's Toll
-- [O] 5os 15ed ghost spear
+- Goblin Toe *C* 23%
+- Nokozan Relic, 26/39
+- Seraph's Hymn, 2/2/72/238/62/163 (max levels!)
 - Tarnhelm
+- Undead Crown, +1/+2
+- Waterwalk, 188/49
+
 
 #### Misc
 - Skillers
@@ -323,6 +329,7 @@
 - Sureshrill Frost
 - Messerschmid's Reaver
 - Goldwrap, 31% mf
+- Lightsabre
 - Homunculus Eth *C* Cannot Be Frozen, near-max
 - [O] The Gladiator's Bane 199 ed [N] Um
 - [O] Messerschmid's Reaver [N] Pul / 4 WSS
@@ -340,13 +347,14 @@
 
 ### Tippy
 - Laying of Hands *C*, 21% mf
+- Chains of Honor
 - Nosferatu's Coil
 - Raven Frost
+- Arreat's Face *C*
 - Nagelring *C*, 8% frw, 32% mf
 - Goblin toe *C*, 20%/23%/55%, 18% Fire Res
 - Lacerator *C*, 11 fhr (swap w/ snicker snack's)
 - Wraith Flight *C*, deadly strike + ed
-- Steel Shade, +2 skills
 - 2x +3 warcry spears
 
 #### Merc
@@ -360,16 +368,20 @@
 #### Set
 
 #### Unique
-- Stone of Jordan (LOAN TO ALEX MF SORC)
+- Raven Frost *C*
+- Dwarf Star
+- Stone of Jordan
+- Steel Shade, +2 skills
+- Ondal's Wisdom
+- Goblin Toe
+- Blood Raven's Charge
+- [O] Templar's Might *C*
 - [O] 2os Ume Lament [N] Ist
 
 #### Misc
 - [O] +1 shapeshifting [N] Mal / Offer
 - [O] +1 passive and magic skills [N] Pul + 2 WSS
-- [O] Bunch of +3 tree amus
-	- Fire
-	- Druid Summon
-	- Pally Combat
+- [O] +1 ma, 41 life skiller (Shogukusha's Vita)
 
 ### SnickerSnack
 - Chance guards
@@ -399,14 +411,13 @@
 - Dwarf Star
 - The Reaper's Toll, 193% ed, 15% life steal
 - Lightsaber
-- Milabrega's Orb (full set), 53% and 41%
-- Milabrega's Robe
-- Milabrega's Diadem
-- Milabrega's Rod
+- Spellsteel
+- Harlequin Crest Shako *C*
 - [O] Spellsteel
 - [O] Heart Carver
 - [O] Jalal's Mane, +1/181% /19/16 [N] Pul / Lem + 2 WSS
 - [O] Widowmaker [N] Ist / Um + 2 WSS
+
 - TODO: Give away (Lem / 1 WSS)
 	- Viperfork
 	- Demon Machine

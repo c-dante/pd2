@@ -884,21 +884,21 @@ ItemDisplay[UNI !ID obf]: %NAME% [Deaths Fathom]%MAP-A5% // Death's Fathom Dimen
 //      [UAAR] Armor
 // ------------------------------------------------------------------------------
 // Normal tier Armor
-ItemDisplay[UNI !ID qui]: %NAME% [Greyform]%MAP-A5% // Greyform Quilted Armor
+ItemDisplay[UNI !ID qui]: %NAME% [Greyform %GREEN%LLD]%MAP-A5% // Greyform Quilted Armor
 ItemDisplay[UNI !ID lea]: %NAME% [Blinkbats Form]%MAP-A5% // Blinkbat's Form Leather Armor
 ItemDisplay[UNI !ID hla]: %NAME% [The Centurion]%MAP-A5% // The Centurion Hard Leather Armor
-ItemDisplay[UNI !ID stu]: %NAME% [Twitchthroe]%MAP-A5% // Twitchthroe Studded Leather
+ItemDisplay[UNI !ID stu]: %NAME% [Twitchthroe %GREEN%LLD]%MAP-A5% // Twitchthroe Studded Leather
 ItemDisplay[UNI !ID rng]: %NAME% [Darkglow]%MAP-A5% // Darkglow Ring Mail
-ItemDisplay[UNI !ID scl]: %NAME% [Hawkmail]%MAP-A5% // Hawkmail Scale Mail
+ItemDisplay[UNI !ID scl]: %NAME% [Hawkmail %GREEN%LLD]%MAP-A5% // Hawkmail Scale Mail
 ItemDisplay[UNI !ID brs]: %NAME% [Venom Ward]%MAP-A5% // Venom Ward Breast Plate
 ItemDisplay[UNI !ID chn]: %NAME% [Sparking Mail]%MAP-A5% // Sparking Mail Chain Mail
-ItemDisplay[UNI !ID spl]: %NAME% [Iceblink]%MAP-A5% // Iceblink Splint Mail
-ItemDisplay[UNI !ID ltp]: %NAME% [Heavenly Garb]%MAP-A5% // Heavenly Garb Light Plate
-ItemDisplay[UNI !ID fld]: %NAME% [Rockfleece]%MAP-A5% // Rockfleece Field Plate
+ItemDisplay[UNI !ID spl]: %NAME% [Iceblink %GREEN%LLD]%MAP-A5% // Iceblink Splint Mail
+ItemDisplay[UNI !ID ltp]: %NAME% [Heavenly Garb %GREEN%LLD]%MAP-A5% // Heavenly Garb Light Plate
+ItemDisplay[UNI !ID fld]: %NAME% [Rockfleece %GREEN%LLD]%MAP-A5% // Rockfleece Field Plate
 ItemDisplay[UNI !ID plt]: %NAME% [Boneflesh]%MAP-A5% // Boneflesh Plate Mail
-ItemDisplay[UNI !ID gth]: %NAME% [Rattlecage]%MAP-A5% // Rattlecage Gothic Plate
+ItemDisplay[UNI !ID gth]: %NAME% [Rattlecage %GREEN%LLD]%MAP-A5% // Rattlecage Gothic Plate
 ItemDisplay[UNI !ID ful]: %NAME% [Goldskin]%MAP-A5% // Goldskin Full Plate Mail
-ItemDisplay[UNI !ID aar]: %NAME% [Silks of the Victor]%MAP-A5% // Silks of the Victor Ancient Armor
+ItemDisplay[UNI !ID aar]: %NAME% [Silks of the Victor %GREEN%LLD]%MAP-A5% // Silks of the Victor Ancient Armor
 
 // Exceptional tier Armor
 ItemDisplay[UNI !ID xui]: %NAME% [The Spirit Shroud]%MAP-A5% // The Spirit Shroud Ghost Armor
@@ -938,8 +938,8 @@ ItemDisplay[UNI !ID uar]: %NAME% [Templars Might or Tyraels Might]%MAP-A5% // Te
 //      [UABE] Belts
 // ------------------------------------------------------------------------------
 // Normal tier Belts
-ItemDisplay[UNI !ID lbl]: %NAME% [Lenymo]%MAP-A5% // Lenymo Sash
-ItemDisplay[UNI !ID vbl]: %NAME% [Snakecord]%MAP-A5% // Snakecord Light Belt
+ItemDisplay[UNI !ID lbl]: %NAME% [Lenymo %GREEN%LLD]%MAP-A5% // Lenymo Sash
+ItemDisplay[UNI !ID vbl]: %NAME% [Snakecord %GREEN%LLD]%MAP-A5% // Snakecord Light Belt
 ItemDisplay[UNI !ID mbl]: %NAME% [Nightsmoke]%MAP-A5% // Nightsmoke Belt
 ItemDisplay[UNI !ID tbl]: %NAME% [Goldwrap]%MAP-A5% // Goldwrap Heavy Belt
 ItemDisplay[UNI !ID hbl]: %NAME% [Bladebuckle]%MAP-A5% // Bladebuckle Plated Belt
@@ -993,7 +993,7 @@ ItemDisplay[UNI !ID tgl]: %NAME% [Magefist]%MAP-A5% // Magefist Light Gauntlets
 ItemDisplay[UNI !ID hgl]: %NAME% [Frostburn]%MAP-A5% // Frostburn Gauntlets
 
 // Exceptional tier Gloves
-ItemDisplay[UNI !ID xlg]: %NAME% [Venom Grip]%MAP-A5% // Venom Grip Demonhide Gloves
+ItemDisplay[UNI !ID xlg]: %NAME% [Venom Grip %GREEN%LLD]%MAP-A5% // Venom Grip Demonhide Gloves
 ItemDisplay[UNI !ID xvg]: %NAME% [Gravepalm]%MAP-A5% // Gravepalm Sharkskin Gloves
 ItemDisplay[UNI !ID xmg]: %NAME% [Ghoulhide]%MAP-A5% // Ghoulhide Heavy Bracers
 ItemDisplay[UNI !ID xtg]: %NAME% [Lava Gout]%MAP-A5% // Lava Gout Battle Gauntlets
@@ -1014,10 +1014,10 @@ ItemDisplay[UNI !ID cap]: %NAME% [Biggins Bonnet]%MAP-A5% // Biggin's Bonnet Cap
 ItemDisplay[UNI !ID skp]: %NAME% [Tarnhelm]%MAP-A5% // Tarnhelm Skull Cap
 ItemDisplay[UNI !ID hlm]: %NAME% [Coif of Glory]%MAP-A5% // Coif of Glory Helm
 ItemDisplay[UNI !ID fhl]: %NAME% [Duskdeep]%MAP-A5% // Duskdeep Full Helm
-ItemDisplay[UNI !ID ghm]: %NAME% [Howltusk]%MAP-A5% // Howltusk Great Helm
+ItemDisplay[UNI !ID ghm]: %NAME% [Howltusk %GREEN%LLD]%MAP-A5% // Howltusk Great Helm
 ItemDisplay[UNI !ID msk]: %NAME% [The Face of Horror]%MAP-A5% // The Face of Horror Mask
-ItemDisplay[UNI !ID crn]: %NAME% [Undead Crown]%MAP-A5% // Undead Crown Crown
-ItemDisplay[UNI !ID bhm]: %NAME% [Wormskull]%MAP-A5% // Wormskull Bone Helm
+ItemDisplay[UNI !ID crn]: %NAME% [Undead Crown %GREEN%LLD]%MAP-A5% // Undead Crown Crown
+ItemDisplay[UNI !ID bhm]: %NAME% [Wormskull %GREEN%LLD]%MAP-A5% // Wormskull Bone Helm
 
 // Exceptional tier Helms
 ItemDisplay[UNI !ID xap]: %NAME% [Peasant Crown]%MAP-A5% // Peasant Crown War Hat
@@ -1043,17 +1043,17 @@ ItemDisplay[UNI !ID uh9]: %NAME% [Giant Skull]%MAP-A5% // Giant Skull Bone Visag
 //      [UASH] Shields
 // ------------------------------------------------------------------------------
 // Normal tier Shields
-ItemDisplay[UNI !ID buc]: %NAME% [Pelta Lunata]%MAP-A5% // Pelta Lunata Buckler
+ItemDisplay[UNI !ID buc]: %NAME% [Pelta Lunata %GREEN%LLD]%MAP-A5% // Pelta Lunata Buckler
 ItemDisplay[UNI !ID sml]: %NAME% [Umbral Disk]%MAP-A5% // Umbral Disk Small Shield
 ItemDisplay[UNI !ID lrg]: %NAME% [Stormguild]%MAP-A5% // Stormguild Large Shield
-ItemDisplay[UNI !ID kit]: %NAME% [Steelclash]%MAP-A5% // Steelclash Kite Shield
+ItemDisplay[UNI !ID kit]: %NAME% [Steelclash %GREEN%LLD]%MAP-A5% // Steelclash Kite Shield
 ItemDisplay[UNI !ID spk]: %NAME% [Swordback Hold]%MAP-A5% // Swordback Hold Spiked Shield
 ItemDisplay[UNI !ID tow]: %NAME% [Bverrit Keep]%MAP-A5% // Bverrit Keep Tower Shield
 ItemDisplay[UNI !ID bsh]: %NAME% [Wall of the Eyeless]%MAP-A5% // Wall of the Eyeless Bone Shield
 ItemDisplay[UNI !ID gts]: %NAME% [The Ward]%MAP-A5% // The Ward Gothic Shield
 
 // Exceptional tier Shields
-ItemDisplay[UNI !ID xuc]: %NAME% [Visceratuant Defender]%MAP-A5% // Visceratuant Defender Defender
+ItemDisplay[UNI !ID xuc]: %NAME% [Visceratuant Defender %GREEN%LLD]%MAP-A5% // Visceratuant Defender Defender
 ItemDisplay[UNI !ID xml]: %NAME% [Mosers Blessed Circle]%MAP-A5% // Moser's Blessed Circle Round Shield
 ItemDisplay[UNI !ID xrg]: %NAME% [Stormchaser]%MAP-A5% // Stormchaser Scutum
 ItemDisplay[UNI !ID xpk]: %NAME% [Lance Guard]%MAP-A5% // Lance Guard Barbed Shield
@@ -1080,11 +1080,11 @@ ItemDisplay[UNI !ID uts]: %NAME% [Spirit Ward]%MAP-A5% // Spirit Ward Ward
 // ------------------------------------------------------------------------------
 // Normal tier Axes
 //      1-Handed Axes
-ItemDisplay[UNI !ID hax]: %NAME% [The Gnasher]%MAP-A5% // The Gnasher Hand Axe
+ItemDisplay[UNI !ID hax]: %NAME% [The Gnasher %GREEN%LLD]%MAP-A5% // The Gnasher Hand Axe
 ItemDisplay[UNI !ID axe]: %NAME% [Deathspade]%MAP-A5% // Deathspade Axe
 ItemDisplay[UNI !ID 2ax]: %NAME% [Bladebone]%MAP-A5% // Bladebone Double Axe
 ItemDisplay[UNI !ID mpi]: %NAME% [Skull Splitter]%MAP-A5% // Skull Splitter Military Pick
-ItemDisplay[UNI !ID wax]: %NAME% [Rakescar]%MAP-A5% // Rakescar War Axe
+ItemDisplay[UNI !ID wax]: %NAME% [Rakescar %GREEN%LLD]%MAP-A5% // Rakescar War Axe
 
 //      2-Handed Axes
 ItemDisplay[UNI !ID lax]: %NAME% [Axe of Fechmar]%MAP-A5% // Axe of Fechmar Large Axe
@@ -1130,11 +1130,11 @@ ItemDisplay[UNI !ID 7gi]: %NAME% [Executioners Justice]%MAP-A5% // Executioner's
 ItemDisplay[UNI !ID sbw]: %NAME% [Pluckeye]%MAP-A5% // Pluckeye Short Bow
 ItemDisplay[UNI !ID hbw]: %NAME% [Witherstring]%MAP-A5% // Witherstring Hunter's Bow
 ItemDisplay[UNI !ID lbw]: %NAME% [Raven Claw]%MAP-A5% // Raven Claw Long Bow
-ItemDisplay[UNI !ID cbw]: %NAME% [Rogues Bow]%MAP-A5% // Rogue's Bow Composite Bow
+ItemDisplay[UNI !ID cbw]: %NAME% [Rogues Bow %GREEN%LLD]%MAP-A5% // Rogue's Bow Composite Bow
 ItemDisplay[UNI !ID sbb]: %NAME% [Stormstrike]%MAP-A5% // Stormstrike Short Battle Bow
 ItemDisplay[UNI !ID lbb]: %NAME% [Wizendraw]%MAP-A5% // Wizendraw Long Battle Bow
 ItemDisplay[UNI !ID swb]: %NAME% [Hellclap]%MAP-A5% // Hellclap Short War Bow
-ItemDisplay[UNI !ID lwb]: %NAME% [Blastbark]%MAP-A5% // Blastbark Long War Bow
+ItemDisplay[UNI !ID lwb]: %NAME% [Blastbark %GREEN%LLD]%MAP-A5% // Blastbark Long War Bow
 
 // Exceptional tier Bows
 ItemDisplay[UNI !ID 8sb]: %NAME% [Skystrike]%MAP-A5% // Skystrike Edge Bow
@@ -1183,8 +1183,8 @@ ItemDisplay[UNI !ID 6rx]: %NAME% [Gut Siphon]%MAP-A5% // Gut Siphon Demon Crossb
 // Normal tier Daggers
 ItemDisplay[UNI !ID dgr]: %NAME% [Gull]%MAP-A5% // Gull Dagger
 ItemDisplay[UNI !ID dir]: %NAME% [The Diggler]%MAP-A5% // The Diggler Dirk
-ItemDisplay[UNI !ID kri]: %NAME% [The Jade Tan Do]%MAP-A5% // The Jade Tan Do Kris
-ItemDisplay[UNI !ID bld]: %NAME% [Spectral Shard]%MAP-A5% // Spectral Shard Blade
+ItemDisplay[UNI !ID kri]: %NAME% [The Jade Tan Do %GREEN%LLD]%MAP-A5% // The Jade Tan Do Kris
+ItemDisplay[UNI !ID bld]: %NAME% [Spectral Shard %GREEN%LLD]%MAP-A5% // Spectral Shard Blade
 
 // Exceptional tier Daggers
 ItemDisplay[UNI !ID 9dg]: %NAME% [Spineripper]%MAP-A5% // Spineripper Poignard
@@ -1236,7 +1236,7 @@ ItemDisplay[UNI !ID whm]: %NAME% [Ironstone]%MAP-A5% // Ironstone War Hammer
 
 //      2-Handed Maces
 ItemDisplay[UNI !ID mau]: %NAME% [Bonesnap]%MAP-A5% // Bonesnap Maul
-ItemDisplay[UNI !ID gma]: %NAME% [Steeldriver]%MAP-A5% // Steeldriver Great Maul
+ItemDisplay[UNI !ID gma]: %NAME% [Steeldriver %GREEN%LLD]%MAP-A5% // Steeldriver Great Maul
 
 // Exceptional tier Maces
 //      1-Handed Maces
@@ -1377,7 +1377,7 @@ ItemDisplay[UNI !ID clm]: %NAME% [Soulflay]%MAP-A5% // Soulflay Claymore
 ItemDisplay[UNI !ID gis]: %NAME% [Kinemils Awl]%MAP-A5% // Kinemil's Awl Giant Sword
 ItemDisplay[UNI !ID bsw]: %NAME% [Blacktongue]%MAP-A5% // Blacktongue Bastard Sword
 ItemDisplay[UNI !ID flb]: %NAME% [Ripsaw]%MAP-A5% // Ripsaw Flamberge
-ItemDisplay[UNI !ID gsd]: %NAME% [The Patriarch]%MAP-A5% // The Patriarch Great Sword
+ItemDisplay[UNI !ID gsd]: %NAME% [The Patriarch %GREEN%LLD]%MAP-A5% // The Patriarch Great Sword
 
 // Exceptional tier Swords
 //      1-Handed Swords
@@ -1444,8 +1444,8 @@ ItemDisplay[UNI !ID 7b8]: %NAME% [Lacerator]%MAP-A5% // Lacerator Winged Axe
 // Normal tier Wands
 ItemDisplay[UNI !ID wnd]: %NAME% [Torch of Iro]%MAP-A5% // Torch of Iro Wand
 ItemDisplay[UNI !ID ywn]: %NAME% [Maelstrom]%MAP-A5% // Maelstrom Yew Wand
-ItemDisplay[UNI !ID bwn]: %NAME% [Gravenspine]%MAP-A5% // Gravenspine Bone Wand
-ItemDisplay[UNI !ID gwn]: %NAME% [Umes Lament]%MAP-A5% // Ume's Lament Grim Wand
+ItemDisplay[UNI !ID bwn]: %NAME% [Gravenspine %GREEN%LLD]%MAP-A5% // Gravenspine Bone Wand
+ItemDisplay[UNI !ID gwn]: %NAME% [Umes Lament %GREEN%LLD]%MAP-A5% // Ume's Lament Grim Wand
 
 // Exceptional tier Wands
 ItemDisplay[UNI !ID 9wn]: %NAME% [Suicide Branch]%MAP-A5% // Suicide Branch Burnt Wand
@@ -1490,7 +1490,7 @@ ItemDisplay[SET !ID mbl]: %NAME%%MAP-84% // Hsaru, Hwanin Belts
 ItemDisplay[SET !ID rin]: %NAME%%MAP-84% // Angelic, Bul-Kathos', Cathan Rings
 ItemDisplay[SET !ID tbl]: %NAME%%MAP-84% // Infernal, Iratha Heavy Belts
 ItemDisplay[SET !ID tgl]: %NAME%%MAP-84% // Arctic, Iratha Light Gauntlets
-ItemDisplay[SET !ID vbt]: %NAME%%MAP-84% // Cow King, Sander Heavy Boots
+ItemDisplay[SET !ID vbt]: %NAME% %GREEN%LLD%MAP-84% // Cow King, Sander Heavy Boots
 
 // ------------------------------------------------------------------------------
 // [SINS] Normal Sets
@@ -1545,7 +1545,7 @@ ItemDisplay[SET !ID lrg]: %NAME% [Civerbs Ward]%MAP-84% // Civerb's Ward Large S
 // ------------------------------------------------------------------------------
 //    [SICB] Cleglaw's Brace
 // ------------------------------------------------------------------------------
-ItemDisplay[SET !ID lsd]: %NAME% [Cleglaws Tooth]%MAP-84% // Cleglaw's Tooth Long Sword
+ItemDisplay[SET !ID lsd]: %NAME% [Cleglaws Tooth %GREEN%LLD]%MAP-84% // Cleglaw's Tooth Long Sword
 ItemDisplay[SET !ID mgl]: %NAME% [Cleglaws Pincers]%MAP-84% // Cleglaw's Pincers Chain Gloves
 ItemDisplay[SET !ID sml]: %NAME% [Cleglaws Claw]%MAP-84% // Cleglaw's Claw Small Shield
 
@@ -1553,8 +1553,8 @@ ItemDisplay[SET !ID sml]: %NAME% [Cleglaws Claw]%MAP-84% // Cleglaw's Claw Small
 //    [SIDD] Death's Disguise
 // ------------------------------------------------------------------------------
 ItemDisplay[SET !ID wsd]: %NAME% [Deaths Touch]%MAP-84% // Death's Touch War Sword
-ItemDisplay[SET !ID lgl]: %NAME% [Deaths Hand]%MAP-84% // Death's Hand Leather Gloves
-ItemDisplay[SET !ID lbl]: %NAME% [Deaths Guard]%MAP-84% // Death's Guard Sash
+ItemDisplay[SET !ID lgl]: %NAME% [Deaths Hand %GREEN%LLD]%MAP-84% // Death's Hand Leather Gloves
+ItemDisplay[SET !ID lbl]: %NAME% [Deaths Guard %GREEN%LLD]%MAP-84% // Death's Guard Sash
 
 // ------------------------------------------------------------------------------
 //    [SIHD] Hsarus' Defense
@@ -1717,7 +1717,7 @@ ItemDisplay[SET !ID 6cs]: %NAME% [Najs Puzzler]%MAP-84% // Naj's Puzzler Elder S
 //    [SIOC] Orphan's Call
 // ------------------------------------------------------------------------------
 ItemDisplay[SET !ID xhm]: %NAME% [Guillaumes Face]%MAP-84% // Guillaume's Face Winged Helm
-ItemDisplay[SET !ID xml]: %NAME% [Whitstans Guard]%MAP-84% // Whitstan's Guard Round Shield
+ItemDisplay[SET !ID xml]: %NAME% [Whitstans Guard %GREEN%LLD]%MAP-84% // Whitstan's Guard Round Shield
 ItemDisplay[SET !ID xvg]: %NAME% [Magnus Skin]%MAP-84% // Magnus' Skin Sharkskin Gloves
 ItemDisplay[SET !ID ztb]: %NAME% [Wilhelms Pride]%MAP-84% // Wilhelm's Pride Battle Belt
 
@@ -1725,8 +1725,8 @@ ItemDisplay[SET !ID ztb]: %NAME% [Wilhelms Pride]%MAP-84% // Wilhelm's Pride Bat
 //    [SISF] Sander's Folly
 // ------------------------------------------------------------------------------
 //Sander's Paragon Cap in "Set Multiple" section
-ItemDisplay[SET !ID bwn]: %NAME% [Sanders Superstition]%MAP-84% // Sander's Superstition Bone Wand
-ItemDisplay[SET !ID vgl]: %NAME% [Sanders Taboo]%MAP-84% // Sander's Taboo Heavy Gloves
+ItemDisplay[SET !ID bwn]: %NAME% [Sanders Superstition %GREEN%LLD]%MAP-84% // Sander's Superstition Bone Wand
+ItemDisplay[SET !ID vgl]: %NAME% [Sanders Taboo %GREEN%LLD]%MAP-84% // Sander's Taboo Heavy Gloves
 //Sander's Riprap Heavy Boots in "Set Multiple" section
 
 // ------------------------------------------------------------------------------
